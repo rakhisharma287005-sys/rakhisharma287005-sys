@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi 👋, I'm Rakhi Sharma
 
-<!--
-**rakhisharma287005-sys/rakhisharma287005-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack MERN Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building modern, responsive and
+user-friendly web applications using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- ⚛️ React.js
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB
+- 🟨 JavaScript
+- 🌐 HTML5 & CSS3
+- 🐙 Git & GitHub
+
+### 🛠️ What I Do
+
+- Build full-stack web applications
+- Develop REST APIs
+- Create responsive UI with React
+- Work with MongoDB databases
+- Learn and explore new technologies
+
+### 📌 Featured Projects
+
+🚀 Full Stack Web Application  
+⚛️ React Projects  
+🟢 Node.js & Express REST APIs  
+🍃 MongoDB Projects
+
+### 🌱 Currently Learning
+
+- Advanced React
+- Backend Development
+- REST APIs
+- System Design
+
+### 📫 Connect With Me
+
+- GitHub: @rakhisharma287005-sys
+
+---
+
+⭐ Thanks for visiting my profile!
